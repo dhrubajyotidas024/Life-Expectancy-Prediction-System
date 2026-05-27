@@ -81,3 +81,13 @@ life-expectancy-predictor/
 | 163 | 38.3 | 11 | 2500 | 1.2 | ~68 years |
 | 320 | 22.0 | 5 | 400 | 12.0 | ~54 years |
 | 450 | 21.0 | 4 | 300 | 28.0 | ~45 years |
+
+---
+
+## 📦 Dataset
+
+- **Source:** [Kaggle — Life Expectancy (WHO)](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
+- **Published by:** World Health Organization (WHO)
+- **Records:** 2938 rows × 22 columns
+- **Years covered:** 2000 – 2015
+- **Countries:** 193
